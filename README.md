@@ -1,6 +1,7 @@
 # PhishGuard 🛡️
 
 A phishing URL detector built with Python and Streamlit.
+🔗 **Live demo:** https://phishguard-khushi.streamlit.app
 
 ## Features
 - Rule-based checks: HTTPS, @ symbol, URL length, IP address, subdomains, suspicious words
